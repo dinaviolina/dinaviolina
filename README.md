@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Dina Violina
+## Hi there I'm Dina Violina👋
 
 <!--
 **dinaviolina/dinaviolina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#### About Me
+
+#### Education
+
+#### Tech Stacks
+##### Front-End Development
+
+##### Data Analyst & Science 
+
+ #### Portfolio [Link](https://bit.ly)
+
+ #### Certificate
+
+ 
