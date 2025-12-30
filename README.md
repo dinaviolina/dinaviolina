@@ -14,17 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### About Me
+#### About Me 👩‍💻
+Data Analytics, System Analyst, Front End Developer
 
 #### Education
 
 #### Tech Stacks
+
 ##### Front-End Development
 
 ##### Data Analyst & Science 
 
- #### Portfolio [Link](https://bit.ly)
+ #### Portfolio [Link](https://bit.ly](https://bit.ly/PortfolioDinaViolina ))
 
- #### Certificate
+ #### Certificate [Link]()
+
+ #### You can also find me on
+ linkedin threads
 
  
