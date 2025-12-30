@@ -25,9 +25,9 @@ Data Analytics, System Analyst, Front End Developer
 
 ##### Data Analyst & Science 
 
- #### Portfolio [Link](https://bit.ly](https://bit.ly/PortfolioDinaViolina ))
+ #### Portfolio [Link](https://bit.ly](https://bit.ly/PortfolioDinaViolina )
 
- #### Certificate [Link]()
+ #### Certificate [Link](https://bit.ly/SertificationDinaViolina)
 
  #### You can also find me on
  linkedin threads
