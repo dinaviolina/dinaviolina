@@ -34,11 +34,10 @@ Universitas Trunojoyo Madura
 ##### Quality Assurance
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /> <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
 
+#### 🔗 Quick Links
+* **Portfolio:** [bit.ly/PortfolioDinaViolina](https://bit.ly/PortfolioDinaViolina)
+* **Certifications:** [bit.ly/SertificationDinaViolina](https://bit.ly/SertificationDinaViolina)
 
-
- #### 📝 Portfolio [Link](https://bit.ly/PortfolioDinaViolina)
-
- #### 🗒️ Certificate [Link](https://bit.ly/SertificationDinaViolina)
 
  #### 🌐 You can also find me on
 ![https://www.linkedin.com/in/dina-violina-b05a4b223/](    https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
