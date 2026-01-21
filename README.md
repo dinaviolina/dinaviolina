@@ -40,7 +40,7 @@ Universitas Trunojoyo Madura
 
 
  ### 🌐 You can also find me on
-![https://www.linkedin.com/in/dina-violina-b05a4b223/](    https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+[![Linkedin](    https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dina-violina-b05a4b223/)
 
 <!-- #### My Github Stats -->
 
